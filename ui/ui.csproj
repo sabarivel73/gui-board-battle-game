@@ -1,0 +1,60 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="need\BishopB.png" />
+    <None Remove="need\BishopW.png" />
+    <None Remove="need\Board.png" />
+    <None Remove="need\board1.png" />
+    <None Remove="need\board2.png" />
+    <None Remove="need\CursorB.cur" />
+    <None Remove="need\CursorW.cur" />
+    <None Remove="need\icon.ico" />
+    <None Remove="need\KingB.png" />
+    <None Remove="need\KingW.png" />
+    <None Remove="need\KnightB.png" />
+    <None Remove="need\KnightW.png" />
+    <None Remove="need\one.mp3" />
+    <None Remove="need\one.wav" />
+    <None Remove="need\PawnB.png" />
+    <None Remove="need\PawnW.png" />
+    <None Remove="need\QueenB.png" />
+    <None Remove="need\QueenW.png" />
+    <None Remove="need\RookB.png" />
+    <None Remove="need\RookW.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\logic\logic.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="need\BishopB.png" />
+    <Resource Include="need\BishopW.png" />
+    <Resource Include="need\Board.png" />
+    <Resource Include="need\board1.png" />
+    <Resource Include="need\CursorB.cur" />
+    <Resource Include="need\CursorW.cur" />
+    <Resource Include="need\icon.ico" />
+    <Resource Include="need\KingB.png" />
+    <Resource Include="need\KingW.png" />
+    <Resource Include="need\KnightB.png" />
+    <Resource Include="need\KnightW.png" />
+    <Content Include="need\one.mp3" />
+    <Content Include="need\one.wav" />
+    <Resource Include="need\PawnB.png" />
+    <Resource Include="need\PawnW.png" />
+    <Resource Include="need\QueenB.png" />
+    <Resource Include="need\QueenW.png" />
+    <Resource Include="need\RookB.png" />
+    <Resource Include="need\RookW.png" />
+  </ItemGroup>
+
+</Project>

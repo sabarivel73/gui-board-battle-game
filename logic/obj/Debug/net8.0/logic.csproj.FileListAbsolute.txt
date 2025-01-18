@@ -1,0 +1,11 @@
+C:\Users\Admin\Documents\CPP Program\GC\chess\logic\bin\Debug\net8.0\logic.deps.json
+C:\Users\Admin\Documents\CPP Program\GC\chess\logic\bin\Debug\net8.0\logic.dll
+C:\Users\Admin\Documents\CPP Program\GC\chess\logic\bin\Debug\net8.0\logic.pdb
+C:\Users\Admin\Documents\CPP Program\GC\chess\logic\obj\Debug\net8.0\logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Documents\CPP Program\GC\chess\logic\obj\Debug\net8.0\logic.AssemblyInfoInputs.cache
+C:\Users\Admin\Documents\CPP Program\GC\chess\logic\obj\Debug\net8.0\logic.AssemblyInfo.cs
+C:\Users\Admin\Documents\CPP Program\GC\chess\logic\obj\Debug\net8.0\logic.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\CPP Program\GC\chess\logic\obj\Debug\net8.0\logic.dll
+C:\Users\Admin\Documents\CPP Program\GC\chess\logic\obj\Debug\net8.0\refint\logic.dll
+C:\Users\Admin\Documents\CPP Program\GC\chess\logic\obj\Debug\net8.0\logic.pdb
+C:\Users\Admin\Documents\CPP Program\GC\chess\logic\obj\Debug\net8.0\ref\logic.dll
